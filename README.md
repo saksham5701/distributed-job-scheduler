@@ -16,7 +16,7 @@ From the repository root:
 docker compose up -d
 ```
 
-Wait until Kafka is healthy (first start can take ~30–60 seconds).
+Wait until Kafka becomes healthy (first start can take ~30–60 seconds).
 
 ## Build
 
