@@ -6,7 +6,7 @@ Multi-module Spring Boot 3 system: **api-service** (REST + DB), **scheduler-serv
 
 - Java 17
 - Maven 3.9+ **or** use the included Maven Wrapper (`mvnw` / `mvnw.cmd`; no global Maven on `PATH` required)
-- Docker (for Kafka, Zookeeper, Redis, PostgreSQL)
+- Docker (for Kafka, Zookeeper, Redis,  PostgreSQL)
 
 ## Start infrastructure
 
