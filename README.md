@@ -12,6 +12,7 @@ Multi-module Spring Boot 3 system: **api-service** (REST + DB), **scheduler-serv
 
 From the repository root:
 
+
 ```bash
 docker compose up -d
 ```
